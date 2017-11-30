@@ -5,8 +5,6 @@ You can use all official Google Maps API features.
 
 https://developers.google.com/maps/documentation/javascript/reference
 
-![react-google-map example](/screenshots/react-google-map-exemple.png)
-
 ## Install
 
 ```sh
